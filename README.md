@@ -4,9 +4,9 @@
 * FFMPEG with [VidStab](https://github.com/georgmartius/vid.stab) library.
 * ImageMagick with convert tool.
 
-## Scripts
-* Extract image sequence from a video file: `vidstabseq_extract`
-* Align and stack image sequence in chunks: `vidstabseq_stack`
+## Shell scripts
+* Extract image sequence from a video file: `vidstabseq_extract.sh`
+* Align and stack image sequence in chunks: `vidstabseq_stack.sh`
 
 Run the scripts without any arguments to show help.
 
