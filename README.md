@@ -1,4 +1,4 @@
-# Extract frame sequence and create aligned stacked images from video files.
+# Extract frame sequence and create aligned stacked images from videofiles
 
 ## Requires
 * FFMPEG with [VidStab](https://github.com/georgmartius/vid.stab) library.
